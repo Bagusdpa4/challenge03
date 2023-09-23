@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/challenge3/static/css/main.33709cce.css",
+    "main.js": "/challenge3/static/js/main.47997e3f.js",
+    "index.html": "/challenge3/index.html",
+    "main.33709cce.css.map": "/challenge3/static/css/main.33709cce.css.map",
+    "main.47997e3f.js.map": "/challenge3/static/js/main.47997e3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33709cce.css",
+    "static/js/main.47997e3f.js"
+  ]
+}
